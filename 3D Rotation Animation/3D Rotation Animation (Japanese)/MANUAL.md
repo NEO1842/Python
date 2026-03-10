@@ -18,4 +18,3 @@
 tkinter
 math
 numpy
-説明書
